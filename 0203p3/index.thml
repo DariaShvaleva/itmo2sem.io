@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+</head>
+<body>
+  <h4 id="author" title="GossJS">Daria Shvaleva</h4>
+  <input type="text" id="us_input">
+  <button id="click_but">Click me!</button>
+  <script src="dist/main.js"></script>
+</body>
+</html>

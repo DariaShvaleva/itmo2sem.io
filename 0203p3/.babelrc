@@ -1,0 +1,8 @@
+{
+  "parserOpts": {
+    "parser": "babylon"
+  },
+  "presets": [
+    "env"
+  ]
+}
